@@ -2,6 +2,31 @@
 assets
 
 <!-- 在Markdown文件中插入HTML代码 -->
+
+<table cellspacing="0" cellpadding="0">
+  <!-- 第1行 -->
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
+      <div style="display: inline-block; border-radius: 5px;">
+        <span style="font-size: 24px;">Joker</span>
+        <img src="https://img.shields.io/badge/🃏-Joker-color.svg" alt="小王">
+        <p><a href="https://example.com">点击这里</a> <!-- 插入超链接 --><p>
+        <p>这是一段带有emoji风格的卡牌文本。</p>
+      </div>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
+      <div style="display: inline-block; border-radius: 5px;">
+        <span style="font-size: 24px;">Joker</span>
+        <img src="https://img.shields.io/badge/🃏-Joker-color.svg" alt="大王">
+        <p><a href="https://example.com">点击这里</a> <!-- 插入超链接 --><p>
+        <p>这是一段带有emoji风格的卡牌文本。</p>
+      </div>
+    </td>
+  </tr>
+  
+</table>
+
+
 <!-- ♠️红桃 -->
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <table cellspacing="0" cellpadding="0">
